@@ -4,3 +4,4 @@ def login(name):
         f.write(f"{name}님 반갑습니다.\n")
         f.write(f"{name}님 협곡으로 들어오세요\n")
         f.write(f"{name}님 로또 1등되세요^^\n")
+        f.write(f"{name}님 조은꿈꾸 세 요!\n")
